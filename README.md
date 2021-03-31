@@ -46,15 +46,15 @@ python GUI-MyCobot-Forward-Kinetics-controller-rev02.py
 # Note
 You need to change the device name according to your system settings.
 please open the GUI-MyCobot-Forward-Kinetics-controller-rev02.py and go to the line 18.
-you will find the follwing line.
+you will find the follwing code.
 ```python
 device_name = 'COM6'
 ```
-1. if your myCobot is connected to 'COM3' on Windows system.
+1. if your myCobot is connected to 'COM3' on Windows system, please change the code as shown below.
 ```python
 device_name = 'COM3'
 ```
-2. if your myCobot is connected to USB on Linux system.
+2. if your myCobot is connected to USB on Linux system, please change the code as shown below.
 ```python
 device_name = '/dev/ttyusb0'
 ```
