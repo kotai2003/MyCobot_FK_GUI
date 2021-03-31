@@ -3,7 +3,18 @@ GUI Program to control the MyCobot.
 
 # DEMO
 
+
+https://user-images.githubusercontent.com/11495016/113101260-7644a980-9237-11eb-8710-bd71e688abc8.mp4
+
+
+https://user-images.githubusercontent.com/11495016/113101269-780e6d00-9237-11eb-8fb1-31c26610014f.mp4
+
+
+
 # Features
+
+
+
 
 # Requirement
 
