@@ -10,9 +10,11 @@ https://github.com/Robonchu/PythonSimpleManipulation
 # DEMO
 
 ![screen](https://user-images.githubusercontent.com/11495016/113101415-a724de80-9237-11eb-8a22-09c787c3420a.jpg)
+Video can be seen at the following link.
 https://user-images.githubusercontent.com/11495016/113101260-7644a980-9237-11eb-8710-bd71e688abc8.mp4
 
 ![screen02](https://user-images.githubusercontent.com/11495016/113101628-ea7f4d00-9237-11eb-9c3d-092ac4f5f1a5.jpg)
+Video can be seen at the following link.
 https://user-images.githubusercontent.com/11495016/113101269-780e6d00-9237-11eb-8fb1-31c26610014f.mp4
 
 
@@ -25,6 +27,7 @@ https://user-images.githubusercontent.com/11495016/113101269-780e6d00-9237-11eb-
 
 # Requirement
 python
+
 Pillow
 numpy 
 matplotlib
@@ -45,7 +48,7 @@ python GUI-MyCobot-Forward-Kinetics-controller-rev02.py
 You need to change the device name according to your system settings.
 please open the GUI-MyCobot-Forward-Kinetics-controller-rev02.py and go to the line 18.
 you will find the follwing line.
-```
+```python
 device_name = 'COM6'
 ```
 1. if your myCobot is connected to 'COM3' on Windows system.
