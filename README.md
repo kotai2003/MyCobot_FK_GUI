@@ -1,6 +1,9 @@
 
 # MyCobot_FK_GUI
-GUI Program to control the MyCobot. You can control MyCobot with chainging joint angle and speed. 
+GUI Program to control the MyCobot. 
+This is simulating the movement of the mycobot by Forward Kinematics. That is why this repositry is called MyCobot_*FK*_GUI. 
+You can control MyCobot with chainging joint angle and speed. 
+
 This work is inspired by @Robonchu 's amazing work
 https://github.com/Robonchu/PythonSimpleManipulation
 
