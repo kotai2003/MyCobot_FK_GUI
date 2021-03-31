@@ -15,9 +15,11 @@ GUI Program to control the MyCobot.
 
 # Author
 
-Name: S Choe
-Affilitation : Tomomi Research Inc.
-twitter : @wireless_power
+*Name: S Choe
+
+*Affilitation : Tomomi Research Inc.
+
+*twitter : @wireless_power
 
 # License
 
