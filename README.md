@@ -26,13 +26,12 @@ https://user-images.githubusercontent.com/11495016/113101269-780e6d00-9237-11eb-
 5. Robot arm will start to move by clicking 'Execute' button, 
 
 # Requirement
-python
-
-Pillow
-numpy 
-matplotlib
-tkinter
-pymycobot
++python
++Pillow
++numpy 
++matplotlib
++tkinter
++pymycobot
 
 # Installation
 ```
