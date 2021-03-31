@@ -60,7 +60,7 @@ device_name = '/dev/ttyusb0'
 
 *Affilitation : Tomomi Research Inc. (https://www.tomomi-research.com)
 
-*twitter : @wireless_power
+*twitter : @wireless_power (https://www.twitter.com/wireless_power)
 
 # License
 
