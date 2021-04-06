@@ -9,7 +9,8 @@ https://github.com/Robonchu/PythonSimpleManipulation
 
 # DEMO
 
-![screen](https://user-images.githubusercontent.com/11495016/113101415-a724de80-9237-11eb-8a22-09c787c3420a.jpg)
+![mycobot_simulator](https://user-images.githubusercontent.com/11495016/113728025-a9ec6b80-9730-11eb-9914-aa9c1ef56669.png)
+
 Video can be seen at the following link.
 https://user-images.githubusercontent.com/11495016/113101260-7644a980-9237-11eb-8710-bd71e688abc8.mp4
 
@@ -40,7 +41,7 @@ git clone https://github.com/kotai2003/MyCobot_FK_GUI.git
 
 # Usage
 ```
-python GUI-MyCobot-Forward-Kinetics-controller-rev02.py
+python GUI-MyCobot-Forward-Kinetics-controller-ver02.py
 ```
 
 # Note
